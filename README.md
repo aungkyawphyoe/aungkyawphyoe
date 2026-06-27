@@ -10,7 +10,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aungkyawphyoe&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/aungkyawphyoe?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/sawthunaing)
-[![Location](https://img.shields.io/badge/Location-Yangon,%20YGN-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/aungkyawphyoe)
 
 </div>
 
